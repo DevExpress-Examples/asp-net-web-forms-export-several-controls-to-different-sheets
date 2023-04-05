@@ -9,7 +9,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e3626/)**
 <!-- run online end -->
 
-This example illustrates how to export components to different worksheets of the same XLSX document.
+This example illustrates how to export several components to different worksheets of the same XLSX document.
 
 ![Exported Document](exported-document.gif)
 
@@ -37,7 +37,7 @@ In this example, the page contains 3 components: [ASPxGridView](https://docs.dev
     compositeLink.CreatePageForEachLink();
     ```
 
-3. Create an [XlsxExportOptions](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.XlsExportOptions) object and set its [ExportMode](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.XlsExportOptions.ExportMode) property to `SingleFilePageByPage` value to export a document to a single file, page-by-page. Send the export options object to the [ExportToXlsx](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.PrintingSystemBase.ExportToXlsx(System.IO.Stream-DevExpress.XtraPrinting.XlsxExportOptions)) method to export the document.
+3. Create an [XlsxExportOptions](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.XlsExportOptions) object and set its [ExportMode](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.XlsExportOptions.ExportMode) property to `SingleFilePageByPage` value to export a document to a single file, page-by-page. Send the options to the [ExportToXlsx](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.PrintingSystemBase.ExportToXlsx(System.IO.Stream-DevExpress.XtraPrinting.XlsxExportOptions)) method to export the document.
 
     ```cs
     XlsxExportOptions options = new XlsxExportOptions();
