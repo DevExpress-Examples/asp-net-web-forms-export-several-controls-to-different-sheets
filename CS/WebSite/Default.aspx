@@ -25,7 +25,6 @@
                         <dx:GridViewDataTextColumn FieldName="ProductSales" />
                     </Columns>
                 </dx:ASPxGridView>
-                <dx:ASPxGridViewExporter ID="GridExporter" runat="server" GridViewID="grid" />
             </td>
             <td align="center">
                 <dx:ASPxTreeList ID="Tree" runat="server" AutoGenerateColumns="False" DataSourceID="AccessDataSource2"
@@ -37,7 +36,6 @@
                         <dx:TreeListTextColumn FieldName="PHONE1" />
                     </Columns>
                 </dx:ASPxTreeList>
-                <dx:ASPxTreeListExporter ID="TreeListExporter" runat="server" TreeListID="Tree" />
             </td>
         </tr>
         <tr>

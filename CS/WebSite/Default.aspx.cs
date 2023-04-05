@@ -21,10 +21,10 @@ public partial class _Default : System.Web.UI.Page {
         PrintingSystemBase ps = new PrintingSystemBase();
 
         PrintableComponentLinkBase link1 = new PrintableComponentLinkBase(ps);
-        link1.Component = GridExporter;
+        link1.Component = Grid;
 
         PrintableComponentLinkBase link2 = new PrintableComponentLinkBase(ps);
-        link2.Component = TreeListExporter;
+        link2.Component = Tree;
 
         PrintableComponentLinkBase link3 = new PrintableComponentLinkBase(ps);
         Chart.DataBind();
