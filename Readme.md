@@ -53,5 +53,6 @@ In this example, the page contains 3 components: [ASPxGridView](https://docs.dev
 
 ## More Examples
 
-* [How to combine a number of ASPxGridView documents in one when exporting](https://www.devexpress.com/Support/Center/p/E1535)
-* [How to export the ASPxGridView and WebChartControl to the same print document](https://www.devexpress.com/Support/Center/p/E2226)
+* [How to export ASPxPivotGrid and bound WebChartControl to the same print document](https://github.com/DevExpress-Examples/asp-net-web-forms-export-pivot-grid-and-chart-in-one-document)
+* [How to export ASPxGridView and WebChartControl to the same print document](https://github.com/DevExpress-Examples/asp-net-web-forms-export-grid-and-chart-in-one-document)
+* [Grid View for Web Forms - How to export multiple grids into a single print document](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-export-two-grids-in-one-document)
