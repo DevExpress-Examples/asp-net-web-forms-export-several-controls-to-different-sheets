@@ -2,6 +2,7 @@
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128540062/13.1.4%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3626)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 
 # ASP.NET Web Forms - How to export several controls to different XLSX worksheets
@@ -53,3 +54,10 @@ In this example, the page contains 3 components: [ASPxGridView](https://docs.dev
 * [How to export ASPxPivotGrid and bound WebChartControl to the same print document](https://github.com/DevExpress-Examples/asp-net-web-forms-export-pivot-grid-and-chart-in-one-document)
 * [How to export ASPxGridView and WebChartControl to the same print document](https://github.com/DevExpress-Examples/asp-net-web-forms-export-grid-and-chart-in-one-document)
 * [Grid View for Web Forms - How to export multiple grids into a single print document](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-export-two-grids-in-one-document)
+<!-- feedback -->
+## Does this example address your development requirements/objectives?
+
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-export-several-controls-to-different-sheets&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-export-several-controls-to-different-sheets&~~~was_helpful=no)
+
+(you will be redirected to DevExpress.com to submit your response)
+<!-- feedback end -->
