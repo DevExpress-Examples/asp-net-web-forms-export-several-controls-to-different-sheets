@@ -55,7 +55,7 @@ In this example, the page contains 3 components: [ASPxGridView](https://docs.dev
 * [How to export ASPxGridView and WebChartControl to the same print document](https://github.com/DevExpress-Examples/asp-net-web-forms-export-grid-and-chart-in-one-document)
 * [Grid View for Web Forms - How to export multiple grids into a single print document](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-export-two-grids-in-one-document)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-export-several-controls-to-different-sheets&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-export-several-controls-to-different-sheets&~~~was_helpful=no)
 
